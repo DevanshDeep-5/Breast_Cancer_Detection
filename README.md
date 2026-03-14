@@ -72,6 +72,3 @@ Total = **10 features × 3 types = 30 inputs**
 
 ---
 
-## 🚀 Getting Started
-app link- 
-https://breast-cancer-detection-0.streamlit.app/
